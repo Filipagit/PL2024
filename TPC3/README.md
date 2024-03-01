@@ -1,0 +1,1 @@
+A função somador utiliza uma expressão regular para identificar números, comandos 'On', 'Off' e o sinal de igualdade '=' no texto fornecido. Em seguida, itera sobre esses tokens e atualiza a soma conforme necessário, dependendo do estado atual do somador.
