@@ -3,8 +3,9 @@ A90234-Ana Filipa da Cunha Rebelo
 
 Métodos de Manipulação do Stock :
 
-load_stock(): Carrega os dados do stock da máquina a partir de um arquivo JSON  "stock.json" se existir.
-save_stock(): guarda os dados do stock da máquina no arquivo JSON.
+load_stock(): Carrega os dados do stock da máquina a partir de um ficheiro JSON  "stock.json" se existir.
+save_stock(): guarda os dados do stock da máquina no ficheiro JSON.
+
 listar_produtos(): Mostra uma lista dos produtos disponíveis na máquina, incluindo código, nome, quantidade e preço.
 
 adicionar_produto(cod, nome, quant, preco): Adiciona um novo produto ao stock da máquina ou atualiza a quantidade se o produto já existir.
